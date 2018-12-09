@@ -1,0 +1,22 @@
+Analisi esplorativa a 1 variabile: 
+ - distrubuzione dell'età (istogramma discreto verticale)
+ - genere (istogramma discreto orizzontale)
+ - ruolo (istogramma discreto orizzontale)
+ - paese di origine (istogramma discreto orizzontale)
+ - persone con disturbi mentali (diagramma a torta)
+ - disturbi mentali più riscontrati (istogramma discreto orizzontale)
+ - dimensione delle aziende dei lavoratori considerati (diagramma a torta)
+
+Analisi deduttiva a 1 variabile:
+ - i lavoratori sanno se la loro privacy riguardo alla salute mentale è tutelata?
+ - le malattie mentali influenzano il lavoro?
+ - ecc: si possono plottare tutte le risposte alle domande del dataset (quelle che riteniamo più interessanti)
+
+Analisi deduttiva a 2 variabili:
+ - se ho famigliari che hanno avuto malattie ho più probabilità di ammalarmi?
+ - se lavoro lontano da casa più del 50% ho più probabilità di ammalarmi?
+ - se lavoro in campo tecnologico ho più probabilità di ammalarmi?
+ - quali sono le posizioni che provocano più di frequente malattie mentali?
+ - se lavoro in una grande azienda è più facile che abbia malattie mentali?
+ - distribuzione dei malati per stato? (tabella?)
+ - età e malattia sono correlate?
