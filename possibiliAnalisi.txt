@@ -31,9 +31,7 @@ Analisi deduttiva a 2 variabili:
 - se ho famigliari che hanno avuto malattie ho più probabilità di ammalarmi?
  
 - se lavoro lontano da casa più del 50% ho più probabilità di ammalarmi?
- 
-- se lavoro in campo tecnologico ho più probabilità di ammalarmi?
- 
+  
 - quali sono le posizioni che provocano più di frequente malattie mentali?
  
 - se lavoro in una grande azienda è più facile che abbia malattie mentali?
